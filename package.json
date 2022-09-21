@@ -11,7 +11,7 @@
     "@babel/polyfill": "^7.6.0",
     "core-js": "^2.6.5",
     "vue": "^2.6.10",
-    "vuetify": "^2.0.0"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.6.0",
